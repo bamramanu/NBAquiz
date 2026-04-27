@@ -24,7 +24,23 @@ const quiz = [
         question: "Denver Nuggets star, MVP, known for elite passing as a center",
         answers: ["Nikola Jokic", "Anthony Davis", "Shaquille O'Neal", "Karl-Anthony Towns"],
         correct: 0
-    }
+    },
+	{
+		question: "Celtics Legend, Best 3-Pointer Shooter of the 1980s, 3x MVP, Former NBA Player, Coach, AND Executive",
+		answers: ["Tim Duncan", "Hakeem Olajuwon", "Larry Bird", "Magic Johnson"],
+		correct: 2
+	},
+	{
+		question: "Top 5 Shooter Of All Time, Scored 60 Points On 11 Dribbles, Cheated on Megan Thee Stallion",
+		answers: ["Steph Curry", "Reggie Miller", "Damian Lillard", "Klay Thompson"],
+		correct: 3
+	},
+	{
+		question: "The Greatest Shooter the world has ever seen, Best Point Guard of Our Generation, 4x NBA Champion"
+		answers: ["Magic Johnson", "Steph Curry", "Jason Kidd", "Kyrie Irving"],
+		correct: 1
+	}
+		
 ];
 
 let currentQuestion = 0;
