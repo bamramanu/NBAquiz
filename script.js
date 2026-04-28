@@ -36,9 +36,9 @@ const quiz = [
 		correct: 3
 	},
 	{
-		question: "The Greatest Shooter the world has ever seen, Best Point Guard of Our Generation, 4x NBA Champion"
-		answers: ["Magic Johnson", "Steph Curry", "Jason Kidd", "Kyrie Irving"],
-		correct: 1
+		question: "Top 3 Shooter the world has ever seen, 10x All Star, 2x NBA Champion"
+		answers: ["Reggie Miller", "Steph Curry", "Ray Allen", "Kyrie Irving"],
+		correct: 2
 	}
 		
 ];
